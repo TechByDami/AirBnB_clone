@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from models import storage
+from models import storage #good
 from models.base_model import BaseModel
 from models.user import User
 
