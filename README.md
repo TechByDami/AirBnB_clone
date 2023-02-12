@@ -342,4 +342,7 @@ Errors management must be the same as previously.
 
 ## 17. {'first_name': "John", "age": 89})   [ tests/test_console.py ] 
 
+Contributors:
+1. Agboola Olawale
+2. Godwin Williams
 ..........................................................................................................................
